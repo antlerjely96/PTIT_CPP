@@ -47,7 +47,6 @@ void HienThi(int a, int b){
 	cout << "a - b = " << TinhHieu(a, b) << endl;
 	cout << "a * b = " << TinhTich(a, b) << endl;
 	cout << "a / b = " << TinhThuong(a, b) << endl;
-	return ;
 }
 //Ham Main
 int main(){
